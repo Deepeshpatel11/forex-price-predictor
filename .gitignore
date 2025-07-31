@@ -1,10 +1,6 @@
-core.Microsoft*
-core.mongo*
-core.python*
-env.py
+venv/
+.env
 __pycache__/
-*.py[cod]
-node_modules/
-.github/
-cloudinary_python.txt
-kaggle.json
+.ipynb_checkpoints/
+data/
+models/
